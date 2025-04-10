@@ -12,6 +12,7 @@ import java.util.List;
  *
  * @see <a href="https://github.com/scoverage/gradle-scoverage/issues/98">Issue #94</a>.
  */
+//asacc
 public class CompositeBuildTest extends ScoverageFunctionalTest {
 
     public CompositeBuildTest() {
